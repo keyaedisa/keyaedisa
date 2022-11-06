@@ -2,7 +2,7 @@
 
 - I am 22 years old and Non-binary
 - My prounouns are: they/them
-- I am the Head of Security at XeroLinux and am responsible for the upcoming build script changes.
+- I am the Head of Security at XeroLinux and am responsible for the build scripts used to build XeroLinux. https://xerolinux.xyz
 - I am currently working on creating my own arch disto for server + web server purposes and then desktop.
 - After I get my website up I intend on diving into iOS security research.
 - I wrote the scripts in abs (archiso-build-scripts) from scratch. I plan to rewrite in C as apart of a broader project.
