@@ -2,8 +2,8 @@
 
 - I am 22 years old and Non-binary
 - My prounouns are: they/them
-- Member at XeroLinux and am the creator and maintainer of program (https://github.com/keyaedisa/abs) used to build XeroLinux. https://xerolinux.xyz
-- I provide an interactive version of my build scripts as a package in my repo.
+- Member at XeroLinux and am the creator and maintainer of program used to build XeroLinux. https://xerolinux.xyz
+- I provide my iso builder as a package in my repo (https://github.com/keyaedisa/abs).
 - I am currently working on creating my own arch disto for server + web server purposes and then build LFS.
 - After I get my website up I intend on diving into iOS security research.
 - I wrote the scripts in abs (archiso-build-scripts) from scratch. I plan to rewrite in C as apart of a broader project thats under wraps.
