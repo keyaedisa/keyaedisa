@@ -2,10 +2,10 @@
 
 - I am 23 years old and Non-binary
 - My prounouns are: they/them
-- Member at XeroLinux and am the creator and maintainer of the program used to build XeroLinuxKDE and XLGnome. https://xerolinux.xyz.
+- I have left the linux community and now freebsd and darwin things. If that sounds like you lets be friends!
 - I provide my iso builder as a package in my repo (https://github.com/keyaedisa/abs). It can build custom isos, vanilla isos, and more.
 - I wrote the scripts in abs (archiso-build-system) from scratch. I plan to rewrite in C as apart of a broader project thats under wraps.
-- Now that my website is up (https://keyaedisa.github.io), I intend on getting into darwin and freebsd security research.
+- Now that my website is up (https://keyaedisa.github.io), check it out!
 - I'm looking to get involved with iOS security research so if you are familiar with that and would like to collab do let me know.
 - If you are looking for someone to write something for you feel free to reach out.
 
