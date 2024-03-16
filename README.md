@@ -1,11 +1,11 @@
 ### Welcome to my Github 👋
 
-- I am 23 years old and Non-binary
+- I am 24 years old
 - My prounouns are: they/them
-- I have left the linux community and now freebsd and darwin things. If that sounds like you lets be friends!
-- I provide my iso builder as a package in my repo (https://github.com/keyaedisa/abs). It can build custom isos, vanilla isos, and more.
+- I have left the linux community and now do darwin things. If that sounds like you lets be friends!
+- I provide my iso builder as a package in my repo (https://github.com/keyaedisa/abs). It can build custom arch isos, vanilla arch isos, and more.
 - I wrote the scripts in abs (archiso-build-system) from scratch. I plan to rewrite in C as apart of a broader project thats under wraps.
-- Now that my website is up (https://keyaedisa.github.io), check it out!
+- Now that my website is up (keyaedisa.world), check it out!
 - I'm looking to get involved with iOS security research so if you are familiar with that and would like to collab do let me know.
 - If you are looking for someone to write something for you feel free to reach out.
 
